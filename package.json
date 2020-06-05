@@ -1,10 +1,10 @@
 {
   "name": "ui-driver-nutanix",
   "version": "0.0.2",
-  "description": "Skeleton Rancher UI driver for custom docker-machine drivers",
+  "description": "Nutanix Rancher UI driver for Nutanix docker-machine driver",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rancher/ui-driver-skel.git"
+    "url": "git+https://github.com/yannickstruyf3/ui-driver-nutanix"
   },
   "author": "Rancher Labs, Inc.",
   "license": "Apache-2.0",
@@ -16,7 +16,7 @@
     "clean": "./node_modules/.bin/gulp clean",
     "build": "./node_modules/.bin/gulp build"
   },
-  "homepage": "https://github.com/rancher/ui-driver-skel#readme",
+  "homepage": "https://github.com/yannickstruyf3/ui-driver-nutanix#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "babel-plugin-add-module-exports": "^1.0.0",
